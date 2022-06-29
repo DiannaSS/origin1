@@ -1,6 +1,7 @@
-/tmp/
+tmp/*
 *_old
 *_backup
 index.html_old
 .DS_Store
 Thumbs.db
+tmpt
